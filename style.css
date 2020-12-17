@@ -315,3 +315,8 @@ body
 {
   margin: auto;
 }
+
+.navbar-nav
+{
+  color: white;
+}
